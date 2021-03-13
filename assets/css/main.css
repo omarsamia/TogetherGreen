@@ -3207,7 +3207,7 @@
             
             .heroImage {
                 background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)), url("https://images.wallpaperscraft.com/image/leaves_plant_green_118405_2560x1080.jpg");
-                height: 50%;
+                height: auto;
                 background-position: center;
                 background-repeat: no-repeat;
                 position: relative;
@@ -3223,7 +3223,7 @@
             
             .heroImage2 {
                 background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)), url("https://1.bp.blogspot.com/-qetGx0uIHr4/X2GdW6ORkLI/AAAAAAAA7p4/4BbNlIJuTckxEPfc7h_RLOtCB_IR7VC5ACLcBGAsYHQ/s2560/fern_branches_bushes_183586_3840x2160.jpg");
-                height: 50%;
+                height: auto;
                 background-position: center;
                 background-repeat: no-repeat;
                 position: relative;
