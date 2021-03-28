@@ -3240,3 +3240,16 @@
                 padding-bottom: 25px;
                 font-family: 'Roboto Mono', monospace;
             }
+            
+            .font-weight-bold {
+                color: black;
+            }
+            
+            .center {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                margin-top: 15%;
+                width: 10%;
+                height: 10%;
+            }
