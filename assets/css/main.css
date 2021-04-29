@@ -3396,3 +3396,11 @@ input[type=submit]:hover {
         margin-top: 0;
     }
 }
+
+.hrd2 {
+    -webkit-text-stroke: 1px black;
+}
+
+.writing98 {
+    font-family: 'Roboto Condensed', sans-serif;
+}
